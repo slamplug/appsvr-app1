@@ -1,0 +1,4 @@
+uk\slamplug\test\appsvr\AppsvrApp1.class
+uk\slamplug\test\appsvr\model\CustomerDetails.class
+uk\slamplug\test\appsvr\controller\AppsvrApp1Controller.class
+uk\slamplug\test\appsvr\rest\AppsvrApp1Connector.class
