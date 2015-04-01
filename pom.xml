@@ -43,4 +43,8 @@
         </plugins>
     </build>
 
+    <scm>
+        <connection>scm:git:git@github.com:slamplug/appsvr-app1.git</connection>
+    </scm>
+
 </project>
