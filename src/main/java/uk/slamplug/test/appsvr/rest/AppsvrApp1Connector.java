@@ -23,6 +23,6 @@ public class AppsvrApp1Connector {
     }
 
     private String getBackendUrl() {
-        return "http://" + System.getProperty("db.host", "192.168.56.10") + ":" + System.getProperty("db.port", "9300");
+        return "http://" + System.getProperty("db.host", "192.168.56.20") + ":" + System.getProperty("db.port", "9300");
     }
 }
